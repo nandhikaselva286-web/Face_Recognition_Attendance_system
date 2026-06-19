@@ -8,6 +8,7 @@ Python-based attendance system that uses face recognition and uniform or logo ve
 *Entry and exit tracking
 *Attendance stored using JSON
 *Attendance report generated
+*Raspberry pi integration
 
 ## Files
 
